@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "u-notice-bar": "/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-gap": "/uview-ui/components/u-gap/u-gap",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}

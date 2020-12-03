@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.logo.data-v-802e0a44 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 300rpx;
+}
+.logo-img.data-v-802e0a44 {
+  width: 162rpx;
+  height: 162rpx;
+}
+.logo-tips.data-v-802e0a44 {
+  font-size: 30rpx;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #c1c1c1;
+  letter-spacing: 16rpx;
+  margin-top: 48rpx;
+}
+.login-button.data-v-802e0a44 {
+  width: 548rpx;
+  height: 100rpx;
+  background: #1296db;
+  -webkit-border-radius: 64rpx;
+          border-radius: 64rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 0 auto;
+  margin-top: 496rpx;
+}
+.login-text.data-v-802e0a44 {
+  font-size: 32rpx;
+  font-family: PingFangSC-Semibold, PingFang SC;
+  font-weight: 600;
+  color: white;
+}
+button.data-v-802e0a44::after {
+  border: none;
+}
+.text-desc.data-v-802e0a44 {
+  width: 496rpx;
+  height: 80rpx;
+  margin: 0 auto;
+  margin-top: 30rpx;
+}
+.text-desc-1.data-v-802e0a44 {
+  font-size: 24rpx;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #C1C1C1;
+}
+.text-desc-2.data-v-802e0a44 {
+  font-size: 24rpx;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #474343;
+}
+

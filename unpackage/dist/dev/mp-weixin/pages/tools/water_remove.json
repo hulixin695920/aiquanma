@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "去水印",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-input": "/uview-ui/components/u-input/u-input"
+  }
+}
