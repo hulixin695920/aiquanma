@@ -5,7 +5,7 @@
 2.修改main.js   
 ![](.README_images/b55078a6.png)
 
-<a href="https://gitee.com/twopiece/chwl">[后台源码地址] </a>
+<a href="https://github.com/hulixin695920/chwl">[后台源码地址] </a>
 
 **程序截图**
 
