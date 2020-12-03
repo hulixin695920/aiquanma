@@ -7,7 +7,7 @@ App.mpType = 'app'
 
 // 此处为演示Vue.prototype使用，非uView的功能部分
 Vue.prototype.vuePrototype = '枣红'
-Vue.prototype.websiteUrl = 'https://answer.inumei.com';
+Vue.prototype.websiteUrl = '自己的接口地址';
 
 // 引入全局uView
 import uView from 'uview-ui'
