@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "用户中心",
-  "usingComponents": {
-    "u-toast": "/uview-ui/components/u-toast/u-toast",
-    "u-popup": "/uview-ui/components/u-popup/u-popup",
-    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
-    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item"
-  }
-}
